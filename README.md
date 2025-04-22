@@ -1,5 +1,7 @@
 # structure-for-web-sites
+
+This Structure Is About To All Web Sites
 <br>
-This Structure Is About To All Web Sites.And My First Repository.
+And My First Repository.
 <br>
 [Author--Maaz.Janjua]
